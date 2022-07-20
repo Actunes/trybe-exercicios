@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header h1 {
+    background-color: #4C6E6E;
+    border-top: 5px solid #4B3933;
+    display: block;
+    margin: 0px;
+    text-align: start;
+    padding-left: 25px;
+    border-radius: 1px;
+}
+
+.header nav ul {
+    display: block;
+    background-color: #ABAAA4;
+    text-align: start;
+    padding-left: 15px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.header nav ul li {
+    display: inline;
+    padding-right: 15px;
+}
